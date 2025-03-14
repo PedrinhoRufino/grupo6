@@ -9,5 +9,3 @@ INTEGRANTES DO GRUPO E SUAS ATRIBUIÇÕES
 1. Tem como objetivo ajudar em R.
 2. Tem como objetivo ajudar a todos, mas com um foco maior no processamento de dados.
 3. Tem como objetivo ajudar em R e no processamento de dados.
-
-atualizei
